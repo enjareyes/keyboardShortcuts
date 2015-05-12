@@ -5,6 +5,7 @@
 // create custom search
 // use as calculator, press enter to copy result
 
+
 // gmail
 // setup keyboard shortcuts
 // setup priority inbox
@@ -111,3 +112,7 @@ if('only there were a way to toggle around the parens'){
 // command + k, command + b : toggle file bar
 // command + option + NUMBER : split screen
 // control + shift + NUMBER : move current file to pane
+
+
+
+//The END!
